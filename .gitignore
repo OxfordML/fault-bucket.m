@@ -1,9 +1,0 @@
-HGRiver.mat
-*.mat
-bias_fault.m
-dynamics_fault.m
-fault_bucket_old.m
-gpml/
-painting_demo_mike.m
-solve_chol.c
-solve_chol.m
